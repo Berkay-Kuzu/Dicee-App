@@ -1,1 +1,1 @@
-# Dice-App
+# Dicee-App
